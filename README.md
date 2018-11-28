@@ -1,5 +1,5 @@
 # blog-portrolio-site
-
+※※ インフラ、フロント、サーバーにリポジトリを分割したため、それぞれmyblog-base、myblog-front、myblog-apiリポジトリに移行 ※※
 ## ディレクトリ構成
 ```
 .
